@@ -1,4 +1,4 @@
-# Laboratory work on one-dimensional arrays.
+# Laboratory work: One-dimensional arrays.
 
 There are three different variants of tasks in this laboratory work. When you open the file, you will see the menu, where you can select the number of the task and see its description.
 
